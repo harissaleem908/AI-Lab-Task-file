@@ -1,0 +1,10 @@
+1	Haris Saleem	22	A
+2	Tamoor Saleem	22	B
+3	Muhammad Tasawar	54	C
+4	Fahad Rasool	8	D
+5	Nabeel Khaliq	18	E
+6	Mohsin Ali	72	F
+7	M Usama Bilal	48	G
+8	Muhammad Bilal	44	H
+9	Saad Mehbob	40	I
+10	Waseem Abbasss	68	J
